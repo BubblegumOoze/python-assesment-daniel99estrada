@@ -1,0 +1,29 @@
+Username=("Zero")
+password=("Sillygoose")
+
+print("HEY NOOB WELCOME TO THE SITE")
+print("")
+print("PUT IN UR USERNAME AND PASSWORD IF U WANNA GET IN")
+print("")
+print("")
+
+username=input("GO ON, PUT YOUR USERNAME")
+password=input("GET THAT PASSWORD IN")
+
+if username==Username and Password==password:
+  print("OMG YOU GOT IN WOW OK WELCOME")
+else:
+  print("WROOONNNGGGGG")
+  print("")
+  print("")
+  username=input("GO ON, PUT YOUR USERNAME")
+  password=input("GET THAT PASSWORD IN")
+
+while Username != Username or Password != password:
+  print("WRRROOONNNG")
+  print("")
+  print("")
+username=input("GO ON, PUT YOUR USERNAME")
+password=input("GET THAT PASSWORD IN")
+if Username == username and Password == password:
+  print("YYAAAAAAAYYYYY HOORRAYYY WOOPAAAA UR IN")
